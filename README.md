@@ -1,4 +1,6 @@
-# OpenFOAMcomputationsForReview
+# 3D natural convection in a spherical shell (2D axisymmetric)
+
+OpenFOAM source code for the computation of laminar, steady-state, incompressible natural convection in a spherical shell, 2D axisymmetric model.
 
 buoyantBoussinesqSimpleFoam: case folder where to run buoyantBoussinesqSimpleFoam solver
 
